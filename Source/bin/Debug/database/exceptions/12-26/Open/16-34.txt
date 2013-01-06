@@ -1,0 +1,31 @@
+----Exception message----
+Unable to connect to any of the specified MySQL hosts.
+----End of exception message----
+
+----Stack trace----
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Conquer_Online_Server.Database.MySqlReader.TryFill(MySqlCommand command) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Database\MySql\MySqlReader.cs:line 74
+   at Conquer_Online_Server.Database.MySqlReader..ctor(MySqlCommand command) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Database\MySql\MySqlReader.cs:line 23
+   at Conquer_Online_Server.Program.EngineThread_Execute() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Program.cs:line 144
+   at Conquer_Online_Server.Program.StartEngine() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Program.cs:line 101
+   at Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.NoCrash_Load(Object sender, EventArgs e) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\NoCrash.cs:line 23
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+----End of stack trace----
+

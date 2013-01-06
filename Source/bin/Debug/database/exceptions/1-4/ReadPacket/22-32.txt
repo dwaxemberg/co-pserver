@@ -1,0 +1,16 @@
+----Exception message----
+Duplicate entry 'baller' for key 'PRIMARY'
+----End of exception message----
+
+----Stack trace----
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Conquer_Online_Server.Database.MySqlCommand.Execute() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Database\MySql\MySqlCommand.cs:line 363
+   at Conquer_Online_Server.Database.AccountTable.Save() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Database\AccountTable.cs:line 77
+----End of stack trace----
+

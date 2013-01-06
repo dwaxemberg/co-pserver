@@ -1,0 +1,7 @@
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\NpcDialogs\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\Source\bin\x64\NpcDialogs.dll
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\Source\bin\x64\NpcDialogs.pdb
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\NpcDialogs\obj\Release\NpcDialogs.dll
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\NpcDialogs\obj\Release\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\NpcDialogs\obj\Release\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\NpcDialogs\obj\Release\NpcDialogs.pdb

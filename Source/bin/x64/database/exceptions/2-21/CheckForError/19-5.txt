@@ -1,0 +1,30 @@
+----Exception message----
+Access denied for user ''@'localhost' (using password: NO)
+----End of exception message----
+
+----Stack trace----
+   at MySql.Data.MySqlClient.PacketReader.CheckForError()
+   at MySql.Data.MySqlClient.PacketReader.ReadHeader()
+   at MySql.Data.MySqlClient.PacketReader.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate411()
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionString settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionString settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionString settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Conquer_Online_Server.Database.MySqlReader.TryFill(MySqlCommand command) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Database\MySql\MySqlReader.cs:line 24
+   at Conquer_Online_Server.Database.MySqlReader..ctor(MySqlCommand command) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Database\MySql\MySqlReader.cs:line 17
+   at Conquer_Online_Server.Program.EngineThread_Execute() in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Program.cs:line 122
+   at Conquer_Online_Server.Program.StartEngine() in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Program.cs:line 86
+   at Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.NoCrash_Load(Object sender, EventArgs e) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\NoCrash.cs:line 23
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+----End of stack trace----
+

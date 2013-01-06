@@ -1,0 +1,12 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at Conquer_Online_Server.Client.GameState.ShutDown() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Client\GameState.cs:line 359
+   at Conquer_Online_Server.Client.GameState.Disconnect() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Client\GameState.cs:line 279
+   at Conquer_Online_Server.Program.GameServer_AnnounceDisconnection(ISocketWrapper obj) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Program.cs:line 1747
+   at Conquer_Online_Server.Network.Sockets.AsyncSocket.InvokeDisconnect(AsyncSocketWrapper Client) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Network\Sockets\AsyncSocket.cs:line 159
+   at Conquer_Online_Server.Network.Sockets.AsyncSocket.AsyncReceive(IAsyncResult res) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Network\Sockets\AsyncSocket.cs:line 95
+----End of stack trace----
+

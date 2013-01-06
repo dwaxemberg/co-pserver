@@ -1,0 +1,9 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at Conquer_Online_Server.Program.BlessThread_Execute() in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Program.cs:line 661
+   at Conquer_Online_Server.ServerBase.Thread.Loop() in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\ServerBase\Thread.cs:line 46
+----End of stack trace----
+

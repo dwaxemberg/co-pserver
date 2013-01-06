@@ -1,0 +1,236 @@
+D:\ArabicMovies\Source\Source\bin\x64\Conquer_Online_Server.exe.config
+D:\ArabicMovies\Source\Source\bin\x64\Conquer_Online_Server.exe
+D:\ArabicMovies\Source\Source\bin\x64\Conquer_Online_Server.pdb
+D:\ArabicMovies\Source\Source\bin\x64\ManagedOpenSsl.dll
+D:\ArabicMovies\Source\Source\bin\x64\NpcDialogs.dll
+D:\ArabicMovies\Source\Source\bin\x64\NpcDialogs.pdb
+D:\ArabicMovies\Source\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\ArabicMovies\Source\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+D:\ArabicMovies\Source\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+D:\ArabicMovies\Source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+D:\ArabicMovies\Source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\x64\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\x64\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\bin\x64\Conquer_Online_Server.exe.config
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\obj\x64\Debug\Conquer_Online_Server.exe
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\bin\x64\Conquer_Online_Server.exe
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\bin\x64\Conquer_Online_Server.pdb
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\bin\x64\ManagedOpenSsl.dll
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\bin\x64\msvcrt.dll
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\bin\x64\MySql.Data.dll
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\bin\x64\NpcDialogs.dll
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\bin\x64\NpcDialogs.pdb
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\obj\x64\Debug\ResGen.read.1.tlog
+D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\impulse\Desktop\nano age source\bin\x64\Conquer_Online_Server.exe.config
+C:\Users\impulse\Desktop\nano age source\bin\x64\Conquer_Online_Server.exe
+C:\Users\impulse\Desktop\nano age source\bin\x64\Conquer_Online_Server.pdb
+C:\Users\impulse\Desktop\nano age source\bin\x64\ManagedOpenSsl.dll
+C:\Users\impulse\Desktop\nano age source\bin\x64\NpcDialogs.pdb
+C:\Users\impulse\Desktop\nano age source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\impulse\Desktop\nano age source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\impulse\Desktop\nano age source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Users\impulse\Desktop\nano age source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\impulse\Desktop\nano age source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\bin\x64\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\x64\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\x64\NpcDialogs.pdb
+C:\Users\impulse\Downloads\nano age source\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Users\impulse\Downloads\nano age source\Source\bin\x64\Conquer_Online_Server.exe
+C:\Users\impulse\Downloads\nano age source\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Users\impulse\Downloads\nano age source\Source\bin\x64\ManagedOpenSsl.dll
+C:\Users\impulse\Downloads\nano age source\Source\bin\x64\NpcDialogs.dll
+C:\Users\impulse\Downloads\nano age source\Source\bin\x64\NpcDialogs.pdb
+C:\Users\impulse\Downloads\nano age source\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\impulse\Downloads\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\impulse\Downloads\nano age source\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Users\impulse\Downloads\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\impulse\Downloads\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\x64\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\x64\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\x64\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\x64\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\x64\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\x64\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\x64\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\x64\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\x64\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\x64\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\x64\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\x64\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\x64\ManagedOpenSsl.dll
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\x64\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\x64\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\fixed\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Desktop\fixed\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\fixed\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\fixed\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\fixed\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Desktop\fixed\Source\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\fixed\Source\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\fixed\Source\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\fixed\Source\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\Java\Desktop\fixed\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Users\Java\Desktop\fixed\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\Java\Desktop\fixed\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Java\Desktop\fixed\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Java\Desktop\fixed\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Java\Desktop\fixed\Source\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Java\Desktop\fixed\Source\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\Java\Desktop\fixed\Source\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Java\Desktop\fixed\Source\obj\x64\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x64\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x64\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+E:\suspeins\Source\bin\x64\Conquer_Online_Server.exe.config
+E:\suspeins\Source\obj\x64\Debug\Conquer_Online_Server.exe
+E:\suspeins\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+D:\prevat 5515\Last Source Best ever\Source\bin\x64\Conquer_Online_Server.exe.config
+D:\prevat 5515\Last Source Best ever\Source\obj\x64\Debug\Conquer_Online_Server.exe
+D:\prevat 5515\Last Source Best ever\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\x64\Conquer_Online_Server.exe.config
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\obj\x64\Debug\Conquer_Online_Server.exe
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+E:\برامج5375\سورس كامل 5525\Mr.SaYeD V2\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\bin\x64\Conquer_Online_Server.exe.config
+E:\برامج5375\سورس كامل 5525\Mr.SaYeD V2\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x64\Debug\Conquer_Online_Server.exe
+E:\برامج5375\سورس كامل 5525\Mr.SaYeD V2\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\bin\x64\Conquer_Online_Server.exe.config
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x64\Debug\Conquer_Online_Server.exe
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Source and Database\Zizo2012\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Source and Database\Zizo2012\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Source and Database\Zizo2012\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Source and Database\Zizo2012\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Source and Database\Zizo2012\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Source and Database\Zizo2012\Source\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Source and Database\Zizo2012\Source\obj\x64\Debug\ResGen.read.1.tlog
+C:\Source and Database\Zizo2012\Source\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Source and Database\Zizo2012\Source\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Tarek Source\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Tarek Source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Tarek Source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x64\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x64\Debug\ResGen.write.1.tlog
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\bin\x64\Conquer_Online_Server.exe.config
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\obj\x64\Debug\Conquer_Online_Server.exe
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\x64\Conquer_Online_Server.exe.config
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server_x64.csprojResolveAssemblyReference.cache
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache

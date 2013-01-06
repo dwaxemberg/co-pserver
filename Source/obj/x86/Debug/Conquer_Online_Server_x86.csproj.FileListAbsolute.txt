@@ -1,0 +1,547 @@
+D:\ArabicMovies\Source\Source\bin\Debug\Conquer_Online_Server.exe.config
+D:\ArabicMovies\Source\Source\bin\Debug\Conquer_Online_Server.exe
+D:\ArabicMovies\Source\Source\bin\Debug\Conquer_Online_Server.pdb
+D:\ArabicMovies\Source\Source\bin\Debug\NpcDialogs.dll
+D:\ArabicMovies\Source\Source\bin\Debug\NpcDialogs.pdb
+D:\ArabicMovies\Source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ArabicMovies\Source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+D:\ArabicMovies\Source\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+D:\ArabicMovies\Source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+D:\ArabicMovies\Source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\Source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\impulse\Desktop\nano age source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\impulse\Desktop\nano age source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\impulse\Desktop\nano age source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\impulse\Desktop\nano age source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\impulse\Desktop\nano age source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\impulse\Desktop\nano age source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Users\impulse\Desktop\nano age source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\impulse\Desktop\nano age source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\impulse\Downloads\nano age source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\impulse\Downloads\nano age source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\impulse\Downloads\nano age source\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Users\impulse\Downloads\nano age source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\impulse\Downloads\nano age source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\impulse\Downloads\nano age source\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\impulse\Downloads\nano age source\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\impulse\Downloads\nano age source\Source\bin\Debug\NpcDialogs.dll
+C:\Users\impulse\Downloads\nano age source\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\impulse\Downloads\nano age source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\Nano Age [Fixed March 24]\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Nano Age\converted source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\converted source [fixed]\converted source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\fixed\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Desktop\fixed\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\fixed\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\fixed\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\fixed\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\fixed\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\fixed\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Desktop\fixed\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\fixed\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\fixed\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\fixed\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Java\Desktop\fixed\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Java\Desktop\fixed\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Java\Desktop\fixed\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Java\Desktop\fixed\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Java\Desktop\fixed\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Java\Desktop\fixed\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Java\Desktop\fixed\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Java\Desktop\fixed\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Java\Desktop\fixed\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Java\Desktop\fixed\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Java\Desktop\fixed\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Owner\Desktop\source\fixed\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+E:\suspeins\Source\bin\Debug\Conquer_Online_Server.exe.config
+E:\suspeins\Source\bin\Debug\Conquer_Online_Server.exe
+E:\suspeins\Source\bin\Debug\Conquer_Online_Server.pdb
+E:\suspeins\Source\bin\Debug\NpcDialogs.dll
+E:\suspeins\Source\bin\Debug\NpcDialogs.pdb
+E:\suspeins\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\suspeins\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+E:\suspeins\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\suspeins\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\suspeins\Source\obj\x86\Debug\Conquer_Online_Server.exe
+E:\suspeins\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\shaprawy\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Desktop\shaprawy\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\shaprawy\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\shaprawy\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\shaprawy\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\shaprawy\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shaprawy\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Desktop\shaprawy\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\shaprawy\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\shaprawy\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\shaprawy\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Owner\Desktop\shaprawy\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+D:\prevat 5515\Last Source Best ever\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\prevat 5515\Last Source Best ever\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+D:\prevat 5515\Last Source Best ever\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\prevat 5515\Last Source Best ever\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prevat 5515\Last Source Best ever\Source\obj\x86\Debug\Conquer_Online_Server.exe
+D:\prevat 5515\Last Source Best ever\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+D:\prevat 5515\Last Source Best ever\Source\bin\Debug\Conquer_Online_Server.exe.config
+D:\prevat 5515\Last Source Best ever\Source\bin\Debug\Conquer_Online_Server.exe
+D:\prevat 5515\Last Source Best ever\Source\bin\Debug\Conquer_Online_Server.pdb
+D:\prevat 5515\Last Source Best ever\Source\bin\Debug\NpcDialogs.dll
+D:\prevat 5515\Last Source Best ever\Source\bin\Debug\NpcDialogs.pdb
+D:\prevat 5515\korolos source\Last Source Best ever\Source\bin\Debug\Conquer_Online_Server.exe.config
+D:\prevat 5515\korolos source\Last Source Best ever\Source\bin\Debug\Conquer_Online_Server.exe
+D:\prevat 5515\korolos source\Last Source Best ever\Source\bin\Debug\Conquer_Online_Server.pdb
+D:\prevat 5515\korolos source\Last Source Best ever\Source\bin\Debug\NpcDialogs.dll
+D:\prevat 5515\korolos source\Last Source Best ever\Source\bin\Debug\NpcDialogs.pdb
+D:\prevat 5515\korolos source\Last Source Best ever\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\prevat 5515\korolos source\Last Source Best ever\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+D:\prevat 5515\korolos source\Last Source Best ever\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\prevat 5515\korolos source\Last Source Best ever\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prevat 5515\korolos source\Last Source Best ever\Source\obj\x86\Debug\Conquer_Online_Server.exe
+D:\prevat 5515\korolos source\Last Source Best ever\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\V2\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Desktop\V2\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\V2\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\V2\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\V2\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\V2\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\V2\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Desktop\V2\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\V2\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\V2\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\V2\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\net\Desktop\New Folder\V2\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\Conquer_Online_Server.exe.config
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\Conquer_Online_Server.exe
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\Conquer_Online_Server.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\ManagedOpenSsl.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\msvcrt.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\MySql.Data.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\NpcDialogs.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\SmartThreadPool.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\bin\Debug\NpcDialogs.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\obj\x86\Debug\Conquer_Online_Server.exe
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.exe
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\Conquer_Online_Server.exe.config
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\Conquer_Online_Server.exe
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\Conquer_Online_Server.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\ManagedOpenSsl.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\msvcrt.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\MySql.Data.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\NpcDialogs.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\SmartThreadPool.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\bin\Debug\NpcDialogs.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\bin\Debug\Conquer_Online_Server.exe.config
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\bin\Debug\Conquer_Online_Server.exe
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\bin\Debug\Conquer_Online_Server.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\bin\Debug\NpcDialogs.dll
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\bin\Debug\NpcDialogs.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.exe
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.exe
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\bin\Debug\Conquer_Online_Server.exe.config
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\bin\Debug\Conquer_Online_Server.exe
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\bin\Debug\Conquer_Online_Server.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\bin\Debug\NpcDialogs.dll
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Hazem\Desktop\Zizo2012\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hazem\Desktop\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Hazem\Desktop\Zizo2012\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hazem\Desktop\Zizo2012\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hazem\Desktop\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Hazem\Desktop\Zizo2012\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Hazem\Desktop\Zizo2012\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Hazem\Desktop\Zizo2012\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Hazem\Desktop\Zizo2012\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Hazem\Desktop\Zizo2012\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Hazem\Desktop\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Source and Database\Zizo2012\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Source and Database\Zizo2012\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Source and Database\Zizo2012\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Source and Database\Zizo2012\Source\bin\Debug\NpcDialogs.dll
+C:\Source and Database\Zizo2012\Source\bin\Debug\NpcDialogs.pdb
+C:\Source and Database\Zizo2012\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Source and Database\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Source and Database\Zizo2012\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Source and Database\Zizo2012\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Source and Database\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Source and Database\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Tarek Source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Tarek Source\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Tarek Source\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Tarek Source\Source\bin\Debug\NpcDialogs.dll
+C:\Tarek Source\Source\bin\Debug\NpcDialogs.pdb
+C:\Tarek Source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Tarek Source\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Tarek Source\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\bin\Debug\Conquer_Online_Server.exe.config
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\Conquer_Online_Server.exe
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\bin\Debug\Conquer_Online_Server.exe
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\bin\Debug\NpcDialogs.dll
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\bin\Debug\NpcDialogs.pdb
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\bin\Debug\Conquer_Online_Server.pdb
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\bin\Debug\Conquer_Online_Server.exe.config
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\obj\x86\Debug\Conquer_Online_Server.exe
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\bin\Debug\Conquer_Online_Server.exe
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\bin\Debug\Conquer_Online_Server.pdb
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\bin\Debug\NpcDialogs.dll
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\bin\Debug\NpcDialogs.pdb
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\sayed\سورس شغال\sayed5572\sayed5572\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\NpcDialogs.dll
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\bin\Debug\NpcDialogs.dll
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x86\Debug\Conquer_Online_Server_x86.csprojResolveAssemblyReference.cache
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x86\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x86\Debug\Conquer_Online_Server.pdb
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\Debug\NpcDialogs.pdb

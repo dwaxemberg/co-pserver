@@ -1,0 +1,506 @@
+ - Connection Closed.
+
+ - Connection Closed.
+[03:54:48] 
+
+ - Connection Closed.
+[03:54:48] 
+Load server configuration! !
+
+
+ - [03:54:50] 
+
+ - [03:54:50] 
+Initializing database.
+
+
+ - [03:54:52] 
+
+ - [03:54:52] 
+Item Base and Plus information loaded.
+
+
+ - [03:54:59] 
+
+ - [03:54:59] 
+Monster information loaded.
+
+
+ - [03:54:59] 
+Monster information loaded.
+
+[03:54:59] 
+
+ - [03:54:59] 
+Monster information loaded.
+
+[03:54:59] 
+Monster drops generated.
+
+
+ - [03:54:59] 
+
+ - [03:54:59] 
+Spells information loaded.
+
+
+ - [03:54:59] 
+Spells information loaded.
+
+[03:55:00] 
+
+ - [03:54:59] 
+Spells information loaded.
+
+[03:55:00] 
+Shops information loaded.
+
+
+ - [03:55:00] 
+
+ - [03:55:00] 
+EShops information loaded.
+
+
+ - [03:55:00] 
+EShops information loaded.
+
+[03:55:00] 
+
+ - [03:55:00] 
+EShops information loaded.
+
+[03:55:00] 
+Map informations loaded.
+
+
+ - [03:55:00] 
+
+ - [03:55:00] 
+Nobility information loaded.
+
+
+ - [03:55:00] 
+
+ - [03:55:00] 
+Arena information loaded.
+
+
+ - [03:55:00] 
+Arena information loaded.
+
+[03:55:00] 
+
+ - [03:55:00] 
+Arena information loaded.
+
+[03:55:00] 
+Guild information loaded.
+
+
+ - [03:55:00] 
+Arena information loaded.
+
+[03:55:00] 
+Guild information loaded.
+
+[03:55:00] 
+
+ - [03:55:00] 
+Arena information loaded.
+
+[03:55:00] 
+Guild information loaded.
+
+[03:55:00] 
+Lottery items loaded.
+
+
+ - [03:55:00] 
+
+ - [03:55:00] 
+Game map loaded successfully.
+
+
+ - [03:55:00] 
+Game map loaded successfully.
+
+[03:55:00] 
+
+ - Lottery2 items loaded.
+
+
+ - Lottery2 items loaded.
+
+[03:55:00] 
+
+ - Lottery2 items loaded.
+
+[03:55:00] 
+1
+
+
+ - Lottery2 items loaded.
+
+[03:55:00] 
+1
+
+[03:55:00] 
+
+ - Lottery2 items loaded.
+
+[03:55:00] 
+1
+
+[03:55:00] 
+Clans Loading 57
+
+
+ - [03:55:01] 
+
+ - [03:55:01] 
+Guild war initializated.
+
+
+ - [03:55:01] 
+Guild war initializated.
+
+[03:55:01] 
+
+ - [03:55:01] 
+Guild war initializated.
+
+[03:55:01] 
+Initializing sockets.
+
+
+ - [03:55:02] 
+
+ - [03:55:02] 
+Auth server online.
+
+
+ - [03:55:02] 
+Auth server online.
+
+[03:55:02] 
+
+ - [03:55:02] 
+Auth server online.
+
+[03:55:02] 
+Game server online.
+
+
+ - [03:55:02] 
+
+ - [03:55:02] 
+Flag war initializated. By Mohammed Adel
+
+
+ - [03:55:02] 
+Flag war initializated. By Mohammed Adel
+
+[03:55:02] 
+
+ - [03:55:02] 
+Flag war initializated. By Mohammed Adel
+
+[03:55:02] 
+Server loaded in 13452 milliseconds.
+
+
+ - [03:55:02] 
+
+ - [03:55:02] 
+Server Fully Ready Enjoy.
+
+
+ - Connection Closed.
+
+ - Connection Closed.
+[04:00:42] 
+
+ - Load server configuration! !
+
+
+ - [04:00:42] 
+
+ - [04:00:42] 
+Initializing database.
+
+
+ - [04:00:43] 
+
+ - [04:00:43] 
+Item Base and Plus information loaded.
+
+
+ - [04:00:47] 
+
+ - [04:00:47] 
+Monster information loaded.
+
+
+ - [04:00:47] 
+Monster information loaded.
+
+[04:00:47] 
+
+ - [04:00:47] 
+Monster information loaded.
+
+[04:00:47] 
+Monster drops generated.
+
+
+ - [04:00:47] 
+
+ - [04:00:47] 
+Spells information loaded.
+
+
+ - [04:00:47] 
+
+ - [04:00:47] 
+Shops information loaded.
+
+
+ - [04:00:47] 
+Shops information loaded.
+
+[04:00:47] 
+
+ - [04:00:47] 
+Shops information loaded.
+
+[04:00:47] 
+EShops information loaded.
+
+
+ - [04:00:47] 
+Shops information loaded.
+
+[04:00:47] 
+EShops information loaded.
+
+[04:00:47] 
+
+ - [04:00:47] 
+Shops information loaded.
+
+[04:00:47] 
+EShops information loaded.
+
+[04:00:47] 
+Map informations loaded.
+
+
+ - [04:00:47] 
+Shops information loaded.
+
+[04:00:47] 
+EShops information loaded.
+
+[04:00:47] 
+Map informations loaded.
+
+[04:00:47] 
+
+ - [04:00:47] 
+Shops information loaded.
+
+[04:00:47] 
+EShops information loaded.
+
+[04:00:47] 
+Map informations loaded.
+
+[04:00:47] 
+Nobility information loaded.
+
+
+ - [04:00:47] 
+Shops information loaded.
+
+[04:00:47] 
+EShops information loaded.
+
+[04:00:47] 
+Map informations loaded.
+
+[04:00:47] 
+Nobility information loaded.
+
+[04:00:47] 
+
+ - [04:00:47] 
+Shops information loaded.
+
+[04:00:47] 
+EShops information loaded.
+
+[04:00:47] 
+Map informations loaded.
+
+[04:00:47] 
+Nobility information loaded.
+
+[04:00:47] 
+Arena information loaded.
+
+
+ - [04:00:47] 
+
+ - [04:00:47] 
+Guild information loaded.
+
+
+ - [04:00:47] 
+Guild information loaded.
+
+[04:00:47] 
+
+ - [04:00:47] 
+Guild information loaded.
+
+[04:00:47] 
+Lottery items loaded.
+
+
+ - [04:00:47] 
+Guild information loaded.
+
+[04:00:47] 
+Lottery items loaded.
+
+[04:00:47] 
+
+ - [04:00:47] 
+Guild information loaded.
+
+[04:00:47] 
+Lottery items loaded.
+
+[04:00:47] 
+Game map loaded successfully.
+
+
+ - [04:00:47] 
+
+ - [04:00:47] 
+Lottery2 items loaded.
+
+
+ - [04:00:47] 
+Lottery2 items loaded.
+
+[04:00:47] 
+
+ - [04:00:47] 
+Lottery2 items loaded.
+
+[04:00:47] 
+1
+
+
+ - [04:00:47] 
+
+ - [04:00:47] 
+Clans Loading 57
+
+
+ - [04:00:48] 
+
+ - [04:00:48] 
+Guild war initializated.
+
+
+ - [04:00:48] 
+Guild war initializated.
+
+[04:00:48] 
+
+ - [04:00:48] 
+Guild war initializated.
+
+[04:00:48] 
+Initializing sockets.
+
+
+ - [04:00:48] 
+Guild war initializated.
+
+[04:00:48] 
+Initializing sockets.
+
+[04:00:48] 
+
+ - [04:00:48] 
+Guild war initializated.
+
+[04:00:48] 
+Initializing sockets.
+
+[04:00:48] 
+Auth server online.
+
+
+ - [04:00:48] 
+Guild war initializated.
+
+[04:00:48] 
+Initializing sockets.
+
+[04:00:48] 
+Auth server online.
+
+[04:00:48] 
+
+ - [04:00:48] 
+Guild war initializated.
+
+[04:00:48] 
+Initializing sockets.
+
+[04:00:48] 
+Auth server online.
+
+[04:00:48] 
+Game server online.
+
+
+ - [04:00:48] 
+
+ - [04:00:48] 
+Flag war initializated. By Mohammed Adel
+
+
+ - [04:00:48] 
+Flag war initializated. By Mohammed Adel
+
+[04:00:48] 
+
+ - [04:00:48] 
+Flag war initializated. By Mohammed Adel
+
+[04:00:48] 
+Server loaded in 6418 milliseconds.
+
+
+ - [04:00:49] 
+
+ - [04:00:49] 
+Server Fully Ready Enjoy.
+
+
+ - Connection Closed.
+
+ - Connection Closed.
+[04:02:28] 
+
+ - Connection Closed.
+[04:02:28] 
+Load server configuration! !
+
+

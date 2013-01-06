@@ -1,0 +1,14 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at Conquer_Online_Server.Game.Attacking.Handle.Execute() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Game\Attacking\Handle.cs:line 3332
+   at Conquer_Online_Server.Game.Attacking.Handle..ctor(Attack attack, Entity attacker, Entity attacked) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Game\Attacking\Handle.cs:line 26
+   at Conquer_Online_Server.Network.PacketHandler.Attack(Attack attack, GameState client) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Network\PacketHandler.cs:line 6140
+   at Conquer_Online_Server.Network.PacketHandler.HandlePacket(Byte[] packet, GameState client) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Network\PacketHandler.cs:line 958
+   at Conquer_Online_Server.Network.PacketHandler.HandleBuffer(Byte[] buffer, GameState client) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Network\PacketHandler.cs:line 40
+   at Conquer_Online_Server.Program.GameServer_AnnounceReceive(Byte[] arg1, ISocketWrapper arg2) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Program.cs:line 1738
+   at Conquer_Online_Server.Network.Sockets.AsyncSocket.AsyncReceive(IAsyncResult res) in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Network\Sockets\AsyncSocket.cs:line 89
+----End of stack trace----
+

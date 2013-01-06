@@ -1,0 +1,14 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at Conquer_Online_Server.Game.Attacking.Handle.Execute() in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Game\Attacking\Handle.cs:line 807
+   at Conquer_Online_Server.Game.Attacking.Handle..ctor(Attack attack, Entity attacker, Entity attacked) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Game\Attacking\Handle.cs:line 18
+   at Conquer_Online_Server.Network.PacketHandler.Attack(Attack attack, GameState client) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Network\PacketHandler.cs:line 2713
+   at Conquer_Online_Server.Network.PacketHandler.HandlePacket(Byte[] packet, GameState client) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Network\PacketHandler.cs:line 424
+   at Conquer_Online_Server.Network.PacketHandler.HandleBuffer(Byte[] buffer, GameState client) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Network\PacketHandler.cs:line 24
+   at Conquer_Online_Server.Program.GameServer_AnnounceReceive(Byte[] arg1, ISocketWrapper arg2) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Program.cs:line 1113
+   at Conquer_Online_Server.Network.Sockets.AsyncSocket.AsyncReceive(IAsyncResult res) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Network\Sockets\AsyncSocket.cs:line 89
+----End of stack trace----
+

@@ -1,0 +1,24 @@
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Source\obj\x64\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x64\Debug\Conquer_Online_Server.exe
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x64\Debug\Conquer_Online_Server.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Source\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server_x86.csprojResolveAssemblyReference.cache
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server_x86.csproj.GenerateResource.Cache

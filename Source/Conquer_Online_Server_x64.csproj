@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{19B20D97-C804-401C-BBF0-B2223ED9FBE0}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Conquer_Online_Server</RootNamespace>
+    <AssemblyName>Conquer_Online_Server</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>Conquer_Online_Server.Program</StartupObject>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;BASETHREADS</DefineConstants>
+    <ErrorReport>queue</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>
+    </DocumentationFile>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <NoWarn>
+    </NoWarn>
+    <FileAlignment>8192</FileAlignment>
+    <NoStdLib>true</NoStdLib>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;UNSAFE; BASETHREADS</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <NoStdLib>true</NoStdLib>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ManagedOpenSsl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ManagedOpenSsl.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="msvcrt">
+      <HintPath>C:\Users\impulse\Desktop\msvcrt.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+    <Reference Include="NpcDialogs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\NpcDialogs\obj\Debug\NpcDialogs.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v3.5\Profile\Client\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client\ModifyItem.cs" />
+    <Compile Include="Client\PacketClient.cs" />
+    <Compile Include="Database\ArsenalsTable.cs" />
+    <Compile Include="Database\Clans.cs" />
+    <Compile Include="Database\Class1.cs" />
+    <Compile Include="Database\EShopFile.cs" />
+    <Compile Include="Database\HorseRaceTable.cs" />
+    <Compile Include="Database\ItemAddingTable.cs" />
+    <Compile Include="Database\KillConnections.cs" />
+    <Compile Include="Database\LoadFlowers.cs" />
+    <Compile Include="Database\PkWarEvent.cs" />
+    <Compile Include="Database\PremiumTable.cs" />
+    <Compile Include="Database\QuestTable.cs" />
+    <Compile Include="Database\QuizData.cs" />
+    <Compile Include="Database\SubClassTable.cs" />
+    <Compile Include="Database\TransactionLog.cs" />
+    <Compile Include="Database\VoteTable.cs" />
+    <Compile Include="Extentions.cs" />
+    <Compile Include="Game\BlessingContribution.cs" />
+    <Compile Include="Game\Clans.cs" />
+    <Compile Include="Game\ClientClasses.cs" />
+    <Compile Include="Game\ClientStatus.cs" />
+    <Compile Include="Game\ConquerStructures\ClassPk.cs" />
+    <Compile Include="Game\ConquerStructures\Quarantine.cs" />
+    <Compile Include="Game\ConquerStructures\QuizShow.cs" />
+    <Compile Include="Game\ConquerStructures\Society\Arsenals.cs" />
+    <Compile Include="Game\ConquerStructures\Society\HorseRace.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Game\StatusStatics.cs" />
+    <Compile Include="Game\Struct.cs" />
+    <Compile Include="Game\Tournaments\EliteTournament.cs" />
+    <Compile Include="Game\Tournaments\SteedRace.cs" />
+    <Compile Include="Network\Features\ClassPKWar\Handle.cs" />
+    <Compile Include="Network\Features\ClassPKWar\PKTournamentStage.cs" />
+    <Compile Include="Network\GamePackets\ArsenalInscribitionList.cs" />
+    <Compile Include="Network\GamePackets\ArsenalPacket.cs" />
+    <Compile Include="Network\GamePackets\Clan.cs" />
+    <Compile Include="Network\GamePackets\ClanMembers.cs" />
+    <Compile Include="Network\GamePackets\ClanRelations.cs" />
+    <Compile Include="Network\GamePackets\Elite_Pk.cs" />
+    <Compile Include="Network\GamePackets\EntityEquipment.cs" />
+    <Compile Include="Network\GamePackets\FlowerPacket.cs" />
+    <Compile Include="Network\GamePackets\FlowerSpawn.cs" />
+    <Compile Include="Network\GamePackets\GameUpdates.cs" />
+    <Compile Include="Network\GamePackets\Guild_Info.cs" />
+    <Compile Include="Network\GamePackets\HorseRaceStatistic.cs" />
+    <Compile Include="Network\GamePackets\ItemAdding.cs" />
+    <Compile Include="Network\GamePackets\ItemAddingStabilization.cs" />
+    <Compile Include="Network\GamePackets\ObserveEquipment.cs" />
+    <Compile Include="Network\GamePackets\Purification.cs" />
+    <Compile Include="Network\GamePackets\PurificationItem.cs" />
+    <Compile Include="Network\GamePackets\Quiz.cs" />
+    <Compile Include="Network\GamePackets\Refinery.cs" />
+    <Compile Include="Network\GamePackets\SubClassShowFull.cs" />
+    <Compile Include="Network\GamePackets\TitlePacket.cs" />
+    <Compile Include="Network\GamePackets\Top2Pirate.cs" />
+    <Compile Include="Network\GamePackets\Top8Pirate.cs" />
+    <Compile Include="Network\GamePackets\TradePopup.cs" />
+    <Compile Include="NPCS.cs" />
+    <Compile Include="ServerBase\BitConverter.cs" />
+    <Compile Include="Database\ArenaTable.cs" />
+    <Compile Include="Database\ConquerItemTable.cs" />
+    <Compile Include="Database\ConquerItemInformation.cs" />
+    <Compile Include="Database\DetainedItemTable.cs" />
+    <Compile Include="Database\GuildTable.cs" />
+    <Compile Include="Database\ItemLog.cs" />
+    <Compile Include="Database\KnownPersons.cs" />
+    <Compile Include="Database\LotteryTable.cs" />
+    <Compile Include="Database\MapsTable.cs" />
+    <Compile Include="Database\MonsterTable.cs" />
+    <Compile Include="Database\MySql\MySqlCommand.cs" />
+    <Compile Include="Database\MySql\MySqlReader.cs" />
+    <Compile Include="Database\NobilityTable.cs" />
+    <Compile Include="Database\ShopFile.cs" />
+    <Compile Include="Database\SkillTable.cs" />
+    <Compile Include="Database\SpellTable.cs" />
+    <Compile Include="Game\ConquerStructures\Broadcast.cs" />
+    <Compile Include="Game\ConquerStructures\Mine.cs" />
+    <Compile Include="Game\ConquerStructures\Society\Arena.cs" />
+    <Compile Include="Game\Attacking\Calculate.cs" />
+    <Compile Include="Game\Attacking\Handle.cs" />
+    <Compile Include="Game\Attacking\InLineAlgorithm.cs" />
+    <Compile Include="Game\Attacking\Sector.cs" />
+    <Compile Include="Game\ConquerStructures\Booth.cs" />
+    <Compile Include="Game\ConquerStructures\Society\Apprentice.cs" />
+    <Compile Include="Game\ConquerStructures\Society\Guild.cs" />
+    <Compile Include="Game\ConquerStructures\Society\GuildWar.cs" />
+    <Compile Include="Game\ConquerStructures\Society\Mentor.cs" />
+    <Compile Include="Game\ConquerStructures\Society\Enemy.cs" />
+    <Compile Include="Game\ConquerStructures\Society\Friend.cs" />
+    <Compile Include="Game\ConquerStructures\Nobility.cs" />
+    <Compile Include="Game\ConquerStructures\Pathfinding\AStar\Calculate.cs" />
+    <Compile Include="Game\ConquerStructures\Pathfinding\AStar\Node.cs" />
+    <Compile Include="Game\ConquerStructures\Pathfinding\AStar\NodeComparer.cs" />
+    <Compile Include="Game\ConquerStructures\Pathfinding\AStar\SortedCostNodeList.cs" />
+    <Compile Include="Game\ConquerStructures\Team.cs" />
+    <Compile Include="Game\ConquerStructures\Equipment.cs" />
+    <Compile Include="Game\ConquerStructures\Inventory.cs" />
+    <Compile Include="Game\ConquerStructures\Trade.cs" />
+    <Compile Include="Game\ConquerStructures\Society\TradePartner.cs" />
+    <Compile Include="Game\ConquerStructures\Warehouse.cs" />
+    <Compile Include="Game\Attacking\Zoning.cs" />
+    <Compile Include="Game\Screen.cs" />
+    <Compile Include="Database\AccountTable.cs" />
+    <Compile Include="Database\DataHolder.cs" />
+    <Compile Include="Database\DMaps.cs" />
+    <Compile Include="Database\EntityTable.cs" />
+    <Compile Include="Game\Entity.cs" />
+    <Compile Include="Game\Map.cs" />
+    <Compile Include="Game\Enums.cs" />
+    <Compile Include="Game\Weather.cs" />
+    <Compile Include="Interfaces\IKnownPerson.cs" />
+    <Compile Include="Interfaces\ISobNpc.cs" />
+    <Compile Include="Interfaces\IBaseEntity.cs" />
+    <Compile Include="Interfaces\IConquerItem.cs" />
+    <Compile Include="Interfaces\IMapObject.cs" />
+    <Compile Include="Interfaces\INpc.cs" />
+    <Compile Include="Interfaces\IPacket.cs" />
+    <Compile Include="Interfaces\ISkill.cs" />
+    <Compile Include="Interfaces\ISocketWrapper.cs" />
+    <Compile Include="Network\AuthPackets\PasswordCryptographySeed.cs" />
+    <Compile Include="Network\Cryptography\AuthCryptography.cs" />
+    <Compile Include="Network\Cryptography\ConquerPasswordCryptpographer.cs" />
+    <Compile Include="Network\Cryptography\GameCryptography.cs" />
+    <Compile Include="Network\Cryptography\RC5.cs" />
+    <Compile Include="Network\Cryptography\RC5Exception.cs" />
+    <Compile Include="Network\GamePackets\ApprenticeInformation.cs" />
+    <Compile Include="Network\GamePackets\ArenaStatistic.cs" />
+    <Compile Include="Network\GamePackets\Attack.cs" />
+    <Compile Include="Network\GamePackets\Broadcast.cs" />
+    <Compile Include="Network\GamePackets\Compose.cs" />
+    <Compile Include="Network\GamePackets\BoothItem.cs" />
+    <Compile Include="Network\GamePackets\DetainedItem.cs" />
+    <Compile Include="Network\GamePackets\Leadership.cs" />
+    <Compile Include="Network\GamePackets\RemoveConfiscatedItem.cs" />
+    <Compile Include="Network\GamePackets\GuildCommand.cs" />
+    <Compile Include="Network\GamePackets\MentorPrize.cs" />
+    <Compile Include="Network\GamePackets\MentorApprentice.cs" />
+    <Compile Include="Network\GamePackets\MentorInformation.cs" />
+    <Compile Include="Network\GamePackets\OfflineTGSts.cs" />
+    <Compile Include="Network\GamePackets\TradePartnerInfo.cs" />
+    <Compile Include="Network\GamePackets\TradePartner.cs" />
+    <Compile Include="Network\GamePackets\KnownPersonInfo.cs" />
+    <Compile Include="Network\GamePackets\KnownPersons.cs" />
+    <Compile Include="Network\GamePackets\NobilityInfo.cs" />
+    <Compile Include="Network\GamePackets\SobNpcSpawn.cs" />
+    <Compile Include="Network\GamePackets\Enlight.cs" />
+    <Compile Include="Network\GamePackets\SkillExperience.cs" />
+    <Compile Include="Network\GamePackets\EmbedSocket.cs" />
+    <Compile Include="Network\GamePackets\Trade.cs" />
+    <Compile Include="Network\GamePackets\TwoMovements.cs" />
+    <Compile Include="Network\GamePackets\Weather.cs" />
+    <Compile Include="Network\GamePackets\SpellUse.cs" />
+    <Compile Include="Network\GamePackets\ItemLock.cs" />
+    <Compile Include="Network\GamePackets\MapStatus.cs" />
+    <Compile Include="Network\GamePackets\String.cs" />
+    <Compile Include="Network\GamePackets\Virgor.cs" />
+    <Compile Include="Network\GamePackets\OfflineTGReq.cs" />
+    <Compile Include="Network\PacketHandler.cs" />
+    <Compile Include="Network\GamePackets\AddToTeam.cs" />
+    <Compile Include="Network\GamePackets\CharacterInfo.cs" />
+    <Compile Include="Network\GamePackets\Connect.cs" />
+    <Compile Include="Network\AuthPackets\Authentication.cs" />
+    <Compile Include="Network\GamePackets\ConquerItem.cs" />
+    <Compile Include="Network\GamePackets\FloorItem.cs" />
+    <Compile Include="Network\GamePackets\Team.cs" />
+    <Compile Include="Network\GamePackets\ItemUsage.cs" />
+    <Compile Include="Network\GamePackets\Spell.cs" />
+    <Compile Include="Network\GamePackets\Proficiency.cs" />
+    <Compile Include="Network\GamePackets\ServerTime.cs" />
+    <Compile Include="Network\GamePackets\Data.cs" />
+    <Compile Include="Network\GamePackets\DHKeyExchange.cs" />
+    <Compile Include="Network\GamePackets\EnitityCreate.cs" />
+    <Compile Include="Network\AuthPackets\Forward.cs" />
+    <Compile Include="Network\GamePackets\GroundMovement.cs" />
+    <Compile Include="Network\GamePackets\Message.cs" />
+    <Compile Include="Network\GamePackets\NpcReply.cs" />
+    <Compile Include="Network\GamePackets\NpcRequest.cs" />
+    <Compile Include="Network\GamePackets\NpcSpawn.cs" />
+    <Compile Include="Network\GamePackets\Update.cs" />
+    <Compile Include="Network\GamePackets\Warehouse.cs" />
+    <Compile Include="Network\Sockets\AsyncSocket.cs" />
+    <Compile Include="Network\Sockets\SyncSocketWrapper.cs" />
+    <Compile Include="Network\Sockets\SyncSocket.cs" />
+    <Compile Include="Network\Sockets\AsyncSocketWrapper.cs" />
+    <Compile Include="Client\AuthState.cs" />
+    <Compile Include="Client\GameState.cs" />
+    <Compile Include="Network\Sockets\WinSocket.cs" />
+    <Compile Include="Network\Writer.cs" />
+    <Compile Include="NoCrash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoCrash.Designer.cs">
+      <DependentUpon>NoCrash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ServerBase\Console.cs" />
+    <Compile Include="ServerBase\Constants.cs" />
+    <Compile Include="ServerBase\Counter.cs" />
+    <Compile Include="ServerBase\IniFile.cs" />
+    <Compile Include="ServerBase\Kernel.cs" />
+    <Compile Include="ServerBase\Thread.cs" />
+    <Compile Include="System\Logger.cs" />
+    <Compile Include="System\SafeDictionary.cs" />
+    <Compile Include="System\ThreadSafeDictionary.cs" />
+    <Compile Include="System\SortEntry.cs" />
+    <Compile Include="System\Time32.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Game\Screen cs.ra" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="NoCrash.resx">
+      <DependentUpon>NoCrash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

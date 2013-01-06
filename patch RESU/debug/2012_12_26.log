@@ -1,0 +1,56 @@
+Error! Can't open file:ini/StrRes.ini! -- Wed Dec 26 16:20:21 2012
+Error! Can not find ini/3DObj.dbc file in c3.wdb and ini directory! -- Wed Dec 26 16:20:22 2012
+No wdb file found there! -- Wed Dec 26 16:20:22 2012
+Game DB Pack Update Failed! -- Wed Dec 26 16:20:22 2012
+ReleaseVer:f:\cq2clientrelease-50.0.4\3drole\gamebase.cpp MsgVer:130, FileTime:2012/05/30,03:37==CGameDataSet Init Fail -- Wed Dec 26 16:20:22 2012
+[R,cq2clientrelease-50.0.4,SE:10426][Win6.1/15M/2047M/950M/69][0s/0s/0s/0s/0s/0s/479023s][0ms/0=0.00ms] -- Wed Dec 26 16:20:22 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Wed Dec 26 16:20:29 2012
+class CGameMap::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:20:29 2012
+ERROR: file ini/region.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 2008 -- Wed Dec 26 16:20:29 2012
+ERROR: file ini/MusicRegion.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 3210 -- Wed Dec 26 16:20:29 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Wed Dec 26 16:20:29 2012
+class CDisplayMgr::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:20:29 2012
+class CMagicEffectMgr::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:20:29 2012
+class CDataMigrationSubject::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:20:29 2012
+Error! Can't open file:ini/StrRes.ini! -- Wed Dec 26 16:21:17 2012
+Error! Can not find ini/3DObj.dbc file in c3.wdb and ini directory! -- Wed Dec 26 16:21:18 2012
+No wdb file found there! -- Wed Dec 26 16:21:18 2012
+Game DB Pack Update Failed! -- Wed Dec 26 16:21:18 2012
+ReleaseVer:f:\cq2clientrelease-50.0.4\3drole\gamebase.cpp MsgVer:130, FileTime:2012/05/30,03:37==CGameDataSet Init Fail -- Wed Dec 26 16:21:18 2012
+[R,cq2clientrelease-50.0.4,SE:10426][Win6.1/15M/2047M/898M/70][0s/0s/0s/0s/0s/0s/479079s][0ms/0=0.00ms] -- Wed Dec 26 16:21:18 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Wed Dec 26 16:21:24 2012
+class CGameMap::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:24 2012
+ERROR: file ini/region.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 2008 -- Wed Dec 26 16:21:24 2012
+ERROR: file ini/MusicRegion.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 3210 -- Wed Dec 26 16:21:24 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Wed Dec 26 16:21:24 2012
+class CDisplayMgr::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:24 2012
+class CMagicEffectMgr::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:24 2012
+class CDataMigrationSubject::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:24 2012
+Error! Can't open file:ini/StrRes.ini! -- Wed Dec 26 16:21:26 2012
+Error! Can not find ini/3DObj.dbc file in c3.wdb and ini directory! -- Wed Dec 26 16:21:27 2012
+No wdb file found there! -- Wed Dec 26 16:21:27 2012
+Game DB Pack Update Failed! -- Wed Dec 26 16:21:27 2012
+ReleaseVer:f:\cq2clientrelease-50.0.4\3drole\gamebase.cpp MsgVer:130, FileTime:2012/05/30,03:37==CGameDataSet Init Fail -- Wed Dec 26 16:21:27 2012
+[R,cq2clientrelease-50.0.4,SE:10426][Win6.1/15M/2047M/898M/70][0s/0s/0s/0s/0s/0s/479088s][0ms/0=0.00ms] -- Wed Dec 26 16:21:27 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Wed Dec 26 16:21:30 2012
+class CGameMap::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:30 2012
+ERROR: file ini/region.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 2008 -- Wed Dec 26 16:21:30 2012
+ERROR: file ini/MusicRegion.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 3210 -- Wed Dec 26 16:21:30 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Wed Dec 26 16:21:30 2012
+class CDisplayMgr::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:30 2012
+class CMagicEffectMgr::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:30 2012
+class CDataMigrationSubject::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:30 2012
+Error! Can't open file:ini/StrRes.ini! -- Wed Dec 26 16:21:32 2012
+Error! Can not find ini/3DObj.dbc file in c3.wdb and ini directory! -- Wed Dec 26 16:21:34 2012
+No wdb file found there! -- Wed Dec 26 16:21:34 2012
+Game DB Pack Update Failed! -- Wed Dec 26 16:21:34 2012
+ReleaseVer:f:\cq2clientrelease-50.0.4\3drole\gamebase.cpp MsgVer:130, FileTime:2012/05/30,03:37==CGameDataSet Init Fail -- Wed Dec 26 16:21:34 2012
+[R,cq2clientrelease-50.0.4,SE:10426][Win6.1/15M/2047M/897M/70][0s/0s/0s/0s/0s/0s/479095s][0ms/0=0.00ms] -- Wed Dec 26 16:21:34 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Wed Dec 26 16:21:36 2012
+class CGameMap::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:36 2012
+ERROR: file ini/region.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 2008 -- Wed Dec 26 16:21:36 2012
+ERROR: file ini/MusicRegion.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 3210 -- Wed Dec 26 16:21:36 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Wed Dec 26 16:21:36 2012
+class CDisplayMgr::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:36 2012
+class CMagicEffectMgr::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:36 2012
+class CDataMigrationSubject::GetSingletonPtr() -- singleton not created -- Wed Dec 26 16:21:36 2012

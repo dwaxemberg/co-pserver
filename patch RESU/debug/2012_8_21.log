@@ -1,0 +1,42 @@
+Error! Can't open file:ini/StrRes.ini! -- Tue Aug 21 14:23:16 2012
+Error! Can not find ini/3DObj.dbc file in c3.wdb and ini directory! -- Tue Aug 21 14:23:16 2012
+No wdb file found there! -- Tue Aug 21 14:23:16 2012
+Game DB Pack Update Failed! -- Tue Aug 21 14:23:16 2012
+ReleaseVer:f:\cq2clientrelease-50.0.4\3drole\gamebase.cpp MsgVer:130, FileTime:2012/05/30,02:37==CGameDataSet Init Fail -- Tue Aug 21 14:23:16 2012
+[R,cq2clientrelease-50.0.4,SE:10426][Win6.1/10M/2047M/1269M/37][0s/0s/0s/0s/0s/0s/67608s][0ms/0=0.00ms] -- Tue Aug 21 14:23:16 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Tue Aug 21 14:23:19 2012
+class CGameMap::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:23:19 2012
+ERROR: file ini/region.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 2008 -- Tue Aug 21 14:23:19 2012
+ERROR: file ini/MusicRegion.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 3210 -- Tue Aug 21 14:23:19 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Tue Aug 21 14:23:19 2012
+class CDisplayMgr::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:23:19 2012
+class CMagicEffectMgr::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:23:19 2012
+class CDataMigrationSubject::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:23:19 2012
+Error! Can't open file:ini/StrRes.ini! -- Tue Aug 21 14:23:29 2012
+Error! Can not find ini/3DObj.dbc file in c3.wdb and ini directory! -- Tue Aug 21 14:23:29 2012
+No wdb file found there! -- Tue Aug 21 14:23:29 2012
+Game DB Pack Update Failed! -- Tue Aug 21 14:23:29 2012
+ReleaseVer:f:\cq2clientrelease-50.0.4\3drole\gamebase.cpp MsgVer:130, FileTime:2012/05/30,02:37==CGameDataSet Init Fail -- Tue Aug 21 14:23:29 2012
+[R,cq2clientrelease-50.0.4,SE:10426][Win6.1/10M/2047M/1264M/38][0s/0s/0s/0s/0s/0s/67622s][0ms/0=0.00ms] -- Tue Aug 21 14:23:29 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Tue Aug 21 14:23:31 2012
+class CGameMap::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:23:31 2012
+ERROR: file ini/region.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 2008 -- Tue Aug 21 14:23:31 2012
+ERROR: file ini/MusicRegion.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 3210 -- Tue Aug 21 14:23:31 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Tue Aug 21 14:23:31 2012
+class CDisplayMgr::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:23:31 2012
+class CMagicEffectMgr::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:23:31 2012
+class CDataMigrationSubject::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:23:31 2012
+Error! Can't open file:ini/StrRes.ini! -- Tue Aug 21 14:26:21 2012
+Error! Can not find ini/3DObj.dbc file in c3.wdb and ini directory! -- Tue Aug 21 14:26:21 2012
+No wdb file found there! -- Tue Aug 21 14:26:21 2012
+Game DB Pack Update Failed! -- Tue Aug 21 14:26:21 2012
+ReleaseVer:f:\cq2clientrelease-50.0.4\3drole\gamebase.cpp MsgVer:130, FileTime:2012/05/30,02:37==CGameDataSet Init Fail -- Tue Aug 21 14:26:21 2012
+[R,cq2clientrelease-50.0.4,SE:10426][Win6.1/10M/2047M/1269M/38][0s/0s/0s/0s/0s/0s/67793s][0ms/0=0.00ms] -- Tue Aug 21 14:26:21 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Tue Aug 21 14:26:23 2012
+class CGameMap::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:26:23 2012
+ERROR: file ini/region.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 2008 -- Tue Aug 21 14:26:23 2012
+ERROR: file ini/MusicRegion.ini not found at f:\cq2clientrelease-50.0.4\3dgamemap\3dgamemap.cpp, 3210 -- Tue Aug 21 14:26:23 2012
+°ÔASSERT(0)°Ô in f:\cq2clientrelease-50.0.4\basecode\singleton.h, 53 -- Tue Aug 21 14:26:23 2012
+class CDisplayMgr::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:26:23 2012
+class CMagicEffectMgr::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:26:23 2012
+class CDataMigrationSubject::GetSingletonPtr() -- singleton not created -- Tue Aug 21 14:26:23 2012

@@ -1,0 +1,228 @@
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Server\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\NpcDialogs\obj\Debug\NpcDialogs.dll
+D:\Documents and Settings\Scotty\My Documents\Dropbox\Server (3)\NpcDialogs\obj\Debug\NpcDialogs.pdb
+D:\My Dropbox\Server\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+D:\My Dropbox\Server\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+D:\My Dropbox\Server\NpcDialogs\obj\Debug\NpcDialogs.dll
+D:\My Dropbox\Server\NpcDialogs\obj\Debug\NpcDialogs.pdb
+D:\FirstPerfectBackupx86Andx64\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+D:\FirstPerfectBackupx86Andx64\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+D:\FirstPerfectBackupx86Andx64\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+D:\FirstPerfectBackupx86Andx64\NpcDialogs\obj\Debug\NpcDialogs.dll
+D:\FirstPerfectBackupx86Andx64\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\nano age source\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\Desktop\google\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Copy (2) of Nano Age\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Emme\Desktop\Conquer\Nano Age\Newest\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrator\Downloads\Source [Bug Fix 01]\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrator\Downloads\Source [Bug Fix 04]\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrator\Downloads\Source [Bug Fix 06]\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\fixed\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\fixed\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\fixed\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\fixed\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\fixed\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Java\Desktop\fixed\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Java\Desktop\fixed\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Java\Desktop\fixed\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Java\Desktop\fixed\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Java\Desktop\fixed\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Owner\Desktop\source\fixed\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Owner\Desktop\source\fixed\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Owner\Desktop\source\fixed\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\source\fixed\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Owner\Desktop\source\fixed\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\elkapoooo2020\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\ShadyTiger\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\modystar\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Administrator\Desktop\RoaayaCustomers\super-co\NpcDialogs\obj\Debug\NpcDialogs.pdb
+E:\suspeins\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+E:\suspeins\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+E:\suspeins\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+E:\suspeins\NpcDialogs\obj\Debug\NpcDialogs.dll
+E:\suspeins\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\shaprawy\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\shaprawy\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\shaprawy\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shaprawy\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\shaprawy\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Owner\Desktop\shaprawy\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Owner\Desktop\shaprawy\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Owner\Desktop\shaprawy\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\shaprawy\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Owner\Desktop\shaprawy\NpcDialogs\obj\Debug\NpcDialogs.pdb
+D:\prevat 5515\Last Source Best ever\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+D:\prevat 5515\Last Source Best ever\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+D:\prevat 5515\Last Source Best ever\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+D:\prevat 5515\Last Source Best ever\NpcDialogs\obj\Debug\NpcDialogs.dll
+D:\prevat 5515\Last Source Best ever\NpcDialogs\obj\Debug\NpcDialogs.pdb
+D:\prevat 5515\korolos source\Last Source Best ever\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+D:\prevat 5515\korolos source\Last Source Best ever\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+D:\prevat 5515\korolos source\Last Source Best ever\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+D:\prevat 5515\korolos source\Last Source Best ever\NpcDialogs\obj\Debug\NpcDialogs.dll
+D:\prevat 5515\korolos source\Last Source Best ever\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\V2\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\V2\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\V2\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\V2\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\V2\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\net\Desktop\New Folder\V2\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\net\Desktop\New Folder\V2\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\net\Desktop\New Folder\V2\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\net\Desktop\New Folder\V2\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\net\Desktop\New Folder\V2\NpcDialogs\obj\Debug\NpcDialogs.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\NpcDialogs\obj\Debug\NpcDialogs.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\V2\NpcDialogs\obj\Debug\NpcDialogs.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\NpcDialogs\obj\Debug\NpcDialogs.dll
+G:\شبكات\عمل سيرفر تهيس\New Folder (2)\New Folder\Copy of V2\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\FFK\Desktop\Copy of V2\Copy of V2\NpcDialogs\obj\Debug\NpcDialogs.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\NpcDialogs\obj\Debug\NpcDialogs.dll
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\NpcDialogs\obj\Debug\NpcDialogs.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Copy of V2\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\NpcDialogs\obj\Debug\NpcDialogs.dll
+E:\all needed to make p-server\good\Mr.SaYeD V2\Copy of V2\Zizo2012\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Hazem\Desktop\Zizo2012\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Hazem\Desktop\Zizo2012\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Hazem\Desktop\Zizo2012\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hazem\Desktop\Zizo2012\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Hazem\Desktop\Zizo2012\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Source and Database\Zizo2012\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Source and Database\Zizo2012\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Source and Database\Zizo2012\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Source and Database\Zizo2012\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Source and Database\Zizo2012\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Zizo2012\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Hamdy\Downloads\Tarek Source\Source and Database\Tarek Source\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Tarek Source\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Tarek Source\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Tarek Source\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Tarek Source\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Tarek Source\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\friends\Desktop\Tarek_Source_2\Tarek Source\NpcDialogs\obj\Debug\NpcDialogs.pdb
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\NpcDialogs\obj\Debug\NpcDialogs.dll
+E:\sayed\سورس شغال\القرصان كامل\القرصان كامل\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\friends\Desktop\القرصان كامل\القرصان كامل\القرصان كامل\NpcDialogs\obj\Debug\NpcDialogs.pdb
+E:\sayed\سورس شغال\sayed5572\sayed5572\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+E:\sayed\سورس شغال\sayed5572\sayed5572\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+E:\sayed\سورس شغال\sayed5572\sayed5572\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+E:\sayed\سورس شغال\sayed5572\sayed5572\NpcDialogs\obj\Debug\NpcDialogs.dll
+E:\sayed\سورس شغال\sayed5572\sayed5572\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Documents and Settings\Pedro & Montse.PEDRO-9F2E44C1C\Escritorio\sayed5580\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrador\Desktop\Source 5585 full pirata\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrador\Desktop\Source 5585 full pirata\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Source 5585 full pirata\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrador\Desktop\Source 5585 full pirata\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\Source 5585 full pirata\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\Source 5585 full pirata\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source 5585 full pirata\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\Source 5585 full pirata\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Administrator\Desktop\Source 5585 By Mr Sayed\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\chinox\Desktop\Source 5585 By Mr Sayed\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\chinox\Desktop\Source 5620 FULL Acceso\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\NpcDialogs\obj\Debug\NpcDialogs.pdb
+C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\NpcDialogs\obj\Debug\NpcDialogs.csprojResolveAssemblyReference.cache

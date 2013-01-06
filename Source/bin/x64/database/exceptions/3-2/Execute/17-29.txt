@@ -1,0 +1,10 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at Conquer_Online_Server.Game.Attacking.Handle.Execute() in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Game\Attacking\Handle.cs:line 807
+   at Conquer_Online_Server.Game.Attacking.Handle..ctor(Attack attack, Entity attacker, Entity attacked) in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Game\Attacking\Handle.cs:line 18
+   at Conquer_Online_Server.Program.AttackThread_Execute() in D:\Programming\Temp storage\Nano_age@hotmail.com Source upgrade 50 bux\Source\Program.cs:line 243
+----End of stack trace----
+

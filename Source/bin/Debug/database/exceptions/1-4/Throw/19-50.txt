@@ -1,0 +1,15 @@
+----Exception message----
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+----End of exception message----
+
+----Stack trace----
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Conquer_Online_Server.Database.MySqlCommand.Execute() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Database\MySql\MySqlCommand.cs:line 363
+   at Conquer_Online_Server.Program.ServerStuff_Execute() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\Program.cs:line 317
+   at Conquer_Online_Server.ServerBase.Threads.Loop() in C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\ServerBase\Thread.cs:line 226
+----End of stack trace----
+
