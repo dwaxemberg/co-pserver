@@ -234,3 +234,4 @@ C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server_x64.csprojResolveAssemblyReference.cache
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x64\Debug\Conquer_Online_Server_x64.csproj.GenerateResource.Cache
+C:\Users\Kody\Desktop\co-pserver\Source\bin\x64\Conquer_Online_Server.exe.config
