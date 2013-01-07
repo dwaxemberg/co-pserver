@@ -16,7 +16,7 @@ using Conquer_Online_Server.Game.ConquerStructures;
 
 namespace Conquer_Online_Server
 {
-    class Program                          
+    class Program
     {
         public static int PlayerCap = 1500;
         public static long PoolSize = 0;
@@ -92,7 +92,7 @@ namespace Conquer_Online_Server
             //foreach (KeyValuePair<object, object> data in e.Data)
             //    Lines.Add(data.Key.ToString() + "->" + data.Value.ToString());
             //Lines.Add("----End of data from exception----\r\n");
-            
+
             File.WriteAllLines(fullPath + date2 + ".txt", Lines.ToArray());
         }
 
@@ -109,38 +109,20 @@ namespace Conquer_Online_Server
             StartDate = DateTime.Now;
             //Console.Title = "Conquer Online Server Emulator. Start time: " + StartDate.ToString("dd MM yyyy hh:mm"); Console.BackgroundColor = ConsoleColor.Green;
             //Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-            Console.WriteLine("~~~~   This Source Coded By : [ Impulse ]       ~~~~");
-            Console.WriteLine("~~~~   And Was Edited By: Mr.Sweet & ChInOx!!   ~~~~");
-            Console.WriteLine("~~~~                                            ~~~~");
-            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Load server configuration! !");
+            Console.WriteLine("Load server configuration!");
             string ConfigFileName = "configuration.ini";
             ServerBase.IniFile IniFile = new ServerBase.IniFile(ConfigFileName);
-            /* if (Environment.UserName.ToLower().Contains("impulse"))
-             {
-                 GameIP = "178.32.183.78";
-                 GamePort = IniFile.ReadUInt16("Configuration", "GamePort");
-                 AuthPort = IniFile.ReadUInt16("Configuration", "AuthPort");
-                 ServerBase.Constants.ServerName = IniFile.ReadString("Configuration", "ServerName");
-                 Database.DataHolder.CreateConnection("root", "sayedelnams1", IniFile.ReadString("MySql", "Database"), "localhost");
-             }*/
-            // else
-            {
-                GameIP = IniFile.ReadString("configuration", "IP");
-                GamePort = IniFile.ReadUInt16("configuration", "GamePort");
-                AuthPort = IniFile.ReadUInt16("configuration", "AuthPort");
-                ServerBase.Constants.ServerName = IniFile.ReadString("configuration", "ServerName");
-               
-                    Database.DataHolder.CreateConnection(IniFile.ReadString("MySql", "Username"), IniFile.ReadString("MySql", "Password"), IniFile.ReadString("MySql", "Database"), IniFile.ReadString("MySql", "Host"));
-                
-              
-                //Database.DataHolder.CreateConnection(IniFile.ReadString("MySql", "Username"), IniFile.ReadString("MySql", "Password"), IniFile.ReadString("MySql", "Database"), IniFile.ReadString("MySql", "Host"));
-            }
-            
-           MySqlCommand cmd = new MySqlCommand(MySqlCommandType.SELECT).Select("configuration").Where("Server", ServerBase.Constants.ServerName);
+
+            GameIP = IniFile.ReadString("configuration", "IP");
+            GamePort = IniFile.ReadUInt16("configuration", "GamePort");
+            AuthPort = IniFile.ReadUInt16("configuration", "AuthPort");
+            ServerBase.Constants.ServerName = IniFile.ReadString("configuration", "ServerName");
+            Database.DataHolder.CreateConnection(IniFile.ReadString("MySql", "Username"), IniFile.ReadString("MySql", "Password"), IniFile.ReadString("MySql", "Database"), IniFile.ReadString("MySql", "Host"));
+
+
+            MySqlCommand cmd = new MySqlCommand(MySqlCommandType.SELECT).Select("configuration").Where("Server", ServerBase.Constants.ServerName);
             MySqlReader r = new MySqlReader(cmd);
             if (r.Read())
             {
@@ -166,13 +148,7 @@ namespace Conquer_Online_Server
                 Database.DetainedItemTable.Counter = new Conquer_Online_Server.ServerBase.Counter(r.ReadUInt32("DetainItemUID"));
             }
             r.Close();
-            /*if (EntityUID.Now == 0) // i fixed the bug, now it shows what it's supposed to, you have database problems
-            {
-                Console.Clear();
-                Console.WriteLine("Database error. Please check your MySQL. Server will now close.");
-               
-                return;
-            }*/
+
             Console.WriteLine("Initializing database.");
             Database.ConquerItemInformation.Load();
             Database.DataHolder.ReadStats();
@@ -189,7 +165,7 @@ namespace Conquer_Online_Server
             Database.EntityTable.LoadPlayersVots();
             Database.LotteryTable2.Load();
             Database.EntityTable.NextUit();
-           // Database.DROP_SOULS.LoadDrops();
+            // Database.DROP_SOULS.LoadDrops();
             Database.Clans.LoadAllClans();
             ServerBase.FrameworkTimer.SetPole(100, 50);
             System.Threading.ThreadPool.QueueUserWorkItem(new System.Threading.WaitCallback(ServerBase.FrameworkTimer.DoNothing));
@@ -210,16 +186,16 @@ namespace Conquer_Online_Server
             GameServer.OnClientConnect += new Action<Interfaces.ISocketWrapper>(GameServer_AnnounceNewConnection);
             GameServer.OnClientReceive += new Action<byte[], Interfaces.ISocketWrapper>(GameServer_AnnounceReceive);
             GameServer.OnClientDisconnect += new Action<Interfaces.ISocketWrapper>(GameServer_AnnounceDisconnection);
-            Console.WriteLine("Auth server Por el Puerto "+AuthPort+" Online.");
-            Console.WriteLine("Game server online "+GamePort+" Online.");
+            Console.WriteLine("Authentication server on port " + AuthPort + "is online.");
+            Console.WriteLine("Game server on port " + GamePort + "is online.");
             Console.WriteLine();
-            Console.WriteLine("Servidor Cargado En " + (Time32.Now - Start) + " milliseconds.");
+            Console.WriteLine("Server loaded in " + (Time32.Now - Start) + " milliseconds.");
             StatusFlagChange.Execute += new Action(StatusFlagChange_Execute);
             StatusFlagChange.Start();
-           // CharacterThread.Execute += new Action(CharacterThread_Execute);
-           // CharacterThread.Start();
-           // AttackThread.Execute += new Action(AttackThread_Execute);
-           // AttackThread.Start();
+            CharacterThread.Execute += new Action(CharacterThread_Execute);
+            CharacterThread.Start();
+            AttackThread.Execute += new Action(AttackThread_Execute);
+            AttackThread.Start();
             CompanionThread.Execute += new Action(CompanionThread_Execute);
             CompanionThread.Start();
             BlessThread.Execute += new Action(BlessThread_Execute);
@@ -233,9 +209,8 @@ namespace Conquer_Online_Server
             new MySqlCommand(MySqlCommandType.UPDATE).Update("entities").Set("Online", 0).Execute();
             GC.Collect();
             System.Threading.Thread.Sleep(000);
-            Console.Clear();
-            Console.WriteLine("-Source 5620-");
-             while (true)
+            Console.WriteLine("----------------Source 5620--------------");
+            while (true)
                 CommandsAI(Console.ReadLine());
         }
 
@@ -313,14 +288,14 @@ namespace Conquer_Online_Server
         static void ServerStuff_Execute()
         {
             ServerBase.Kernel.Elite_PK_Tournament.SendThis();
-            Console.Title = "Source 5620 : " + Program.StartDate.ToString("dd MM yyyy hh:mm") + ".Players Online: " + ServerBase.Kernel.GamePool.Count + "||" + Program.PlayerCap + " Votes =" + Kernel.VotePool.Count;
+            Console.Title = "Source 5620 : " + Program.StartDate.ToString("dd MM yyyy hh:mm") + "- Players Online: " + ServerBase.Kernel.GamePool.Count + "||" + Program.PlayerCap + " Votes =" + Kernel.VotePool.Count;
             new Database.MySqlCommand(Database.MySqlCommandType.UPDATE).Update("configuration")
                 .Set("GuildID", Game.ConquerStructures.Society.Guild.GuildCounter.Now)
                 .Set("ItemUID", Network.GamePackets.ConquerItem.ItemUID.Now)
                 .Set("DetainItemUID", Database.DetainedItemTable.Counter.Now).Set("ClanUID", Game.Clans.ClanCount.Now)
                 .Where("Server", ServerBase.Constants.ServerName).Execute();
             ServerBase.FrameworkTimer.Dispose();
-         
+
             if (DateTime.Now > Game.ConquerStructures.Broadcast.LastBroadcast.AddMinutes(1))
             {
                 if (Game.ConquerStructures.Broadcast.Broadcasts.Count > 0)
@@ -339,7 +314,7 @@ namespace Conquer_Online_Server
             {
                 Program.CommandsAI("@save");
             }
-        
+
             if (Now > LastRandomReset.AddMinutes(30))
             {
                 LastRandomReset = Now;
@@ -354,7 +329,7 @@ namespace Conquer_Online_Server
                 return;
             }
             var Values = ServerBase.Kernel.WasInGamePool.Base.ToArray();
-            foreach (KeyValuePair<uint, Client.GameState> vals in Values)          
+            foreach (KeyValuePair<uint, Client.GameState> vals in Values)
             {
                 Client.GameState client = vals.Value;
                 if (client.Disconnected2 == true)
@@ -381,111 +356,111 @@ namespace Conquer_Online_Server
                 Database.SkillTable.SaveProficiencies(client);
                 Database.SkillTable.SaveSpells(client);
                 Database.ArenaTable.SaveArenaStatistics(client.ArenaStatistic);
-               // 
+                // 
             }
             #region remove monk buff
             foreach (Client.GameState client in Kernel.GamePool.Values)
             {
-                 if (client.Entity.Owner.Team != null)
-                                            {
-                                                foreach (Client.GameState teammate in client.Entity.Owner.Team.Teammates)
-                                                {
-                                                    if (ServerBase.Kernel.GetDistance(client.Entity.X, client.Entity.Y, teammate.Entity.X, teammate.Entity.Y) > 20)
-                                                    {
-                                                        if (client.Entity.ContainsFlag2(Update.Flags2.TyrantAura))//FendAura
-                                                        {
-                                                            client.Entity.RemoveFlag2(Update.Flags2.TyrantAura);//FendAura
-                                                            client.Entity.Statistics.CriticalStrike -= 200;
-                                                        }
-                                                        if (client.Entity.ContainsFlag2(Update.Flags2.MetalAura))//MetalAura
-                                                        {
-                                                            client.Entity.RemoveFlag2(Update.Flags2.MetalAura);//MetalAura
-                                                            client.Entity.Statistics.MetalResistance -= 30;
-                                                        }
-                                                        if (client.Entity.ContainsFlag2(Update.Flags2.WoodAura))//WoodAura
-                                                        {
-                                                            client.Entity.Statistics.WoodResistance -= 30;
-                                                            client.Entity.RemoveFlag2(Update.Flags2.WoodAura);//WoodAura
-                                                        }
-                                                        if (client.Entity.ContainsFlag2(Update.Flags2.WaterAura))//WaterAura
-                                                        {
-                                                            client.Entity.Statistics.WaterResistance -= 30;
-                                                            client.Entity.RemoveFlag2(Update.Flags2.WaterAura);//WaterAura
-                                                        }
-                                                        if (client.Entity.ContainsFlag2(Update.Flags2.FireAura))//FireAura
-                                                        {
-                                                            client.Entity.Statistics.FireResistance -= 30;
-                                                            client.Entity.RemoveFlag2(Update.Flags2.FireAura);//FireAura
-                                                        }
-                                                        if (client.Entity.ContainsFlag2(Update.Flags2.EarthAura))//EarthAura
-                                                        {
-                                                            client.Entity.Statistics.EarthResistance -= 30;
-                                                            client.Entity.RemoveFlag2(Update.Flags2.EarthAura);//EarthAura
-                                                        }
-                                                        if (client.Entity.ContainsFlag2(Update.Flags2.FendAura))//TyrantAura
-                                                        {
-                                                            client.Entity.RemoveFlag2(Update.Flags2.FendAura);//TyrantAura
-                                                            client.Entity.Statistics.Immunity -= 200;
+                if (client.Entity.Owner.Team != null)
+                {
+                    foreach (Client.GameState teammate in client.Entity.Owner.Team.Teammates)
+                    {
+                        if (ServerBase.Kernel.GetDistance(client.Entity.X, client.Entity.Y, teammate.Entity.X, teammate.Entity.Y) > 20)
+                        {
+                            if (client.Entity.ContainsFlag2(Update.Flags2.TyrantAura))//FendAura
+                            {
+                                client.Entity.RemoveFlag2(Update.Flags2.TyrantAura);//FendAura
+                                client.Entity.Statistics.CriticalStrike -= 200;
+                            }
+                            if (client.Entity.ContainsFlag2(Update.Flags2.MetalAura))//MetalAura
+                            {
+                                client.Entity.RemoveFlag2(Update.Flags2.MetalAura);//MetalAura
+                                client.Entity.Statistics.MetalResistance -= 30;
+                            }
+                            if (client.Entity.ContainsFlag2(Update.Flags2.WoodAura))//WoodAura
+                            {
+                                client.Entity.Statistics.WoodResistance -= 30;
+                                client.Entity.RemoveFlag2(Update.Flags2.WoodAura);//WoodAura
+                            }
+                            if (client.Entity.ContainsFlag2(Update.Flags2.WaterAura))//WaterAura
+                            {
+                                client.Entity.Statistics.WaterResistance -= 30;
+                                client.Entity.RemoveFlag2(Update.Flags2.WaterAura);//WaterAura
+                            }
+                            if (client.Entity.ContainsFlag2(Update.Flags2.FireAura))//FireAura
+                            {
+                                client.Entity.Statistics.FireResistance -= 30;
+                                client.Entity.RemoveFlag2(Update.Flags2.FireAura);//FireAura
+                            }
+                            if (client.Entity.ContainsFlag2(Update.Flags2.EarthAura))//EarthAura
+                            {
+                                client.Entity.Statistics.EarthResistance -= 30;
+                                client.Entity.RemoveFlag2(Update.Flags2.EarthAura);//EarthAura
+                            }
+                            if (client.Entity.ContainsFlag2(Update.Flags2.FendAura))//TyrantAura
+                            {
+                                client.Entity.RemoveFlag2(Update.Flags2.FendAura);//TyrantAura
+                                client.Entity.Statistics.Immunity -= 200;
 
-                                                        }
-                                                        client.Entity.RemoveFlag2(Update.Flags2.FendAura);
-                                                        client.Entity.RemoveFlag2(Update.Flags2.TyrantAura);
-                                                        client.Entity.RemoveFlag2(Update.Flags2.MetalAura);
-                                                        client.Entity.RemoveFlag2(Update.Flags2.WoodAura);
-                                                        client.Entity.RemoveFlag2(Update.Flags2.WaterAura);
-                                                        client.Entity.RemoveFlag2(Update.Flags2.FireAura);
-                                                        client.Entity.RemoveFlag2(Update.Flags2.EarthAura);
-                                                        client.Entity.RemoveFlag2(Update.Flags2.TyrantAura);
-                                                        teammate.Entity.RemoveFlag2(Update.Flags2.FendAura);
-                                                        teammate.Entity.RemoveFlag2(Update.Flags2.TyrantAura);
-                                                        teammate.Entity.RemoveFlag2(Update.Flags2.MetalAura);
-                                                        teammate.Entity.RemoveFlag2(Update.Flags2.WoodAura);
-                                                        teammate.Entity.RemoveFlag2(Update.Flags2.WaterAura);
-                                                        teammate.Entity.RemoveFlag2(Update.Flags2.FireAura);
-                                                        teammate.Entity.RemoveFlag2(Update.Flags2.EarthAura);
-                                                        teammate.Entity.RemoveFlag2(Update.Flags2.TyrantAura);
-                                                        if (teammate.Entity.ContainsFlag2(Update.Flags2.TyrantAura))//FendAura
-                                                        {
-                                                            teammate.Entity.RemoveFlag2(Update.Flags2.TyrantAura);//FendAura
-                                                            teammate.Entity.Statistics.CriticalStrike -= 200;
-                                                        }
-                                                        if (teammate.Entity.ContainsFlag2(Update.Flags2.MetalAura))//MetalAura
-                                                        {
-                                                            teammate.Entity.RemoveFlag2(Update.Flags2.MetalAura);//MetalAura
-                                                            teammate.Entity.Statistics.MetalResistance -= 30;
-                                                        }
-                                                        if (teammate.Entity.ContainsFlag2(Update.Flags2.WoodAura))//WoodAura
-                                                        {
-                                                            teammate.Entity.RemoveFlag2(Update.Flags2.WoodAura);//WoodAura
-                                                            teammate.Entity.Statistics.WoodResistance -= 30;
-                                                        }
-                                                        if (teammate.Entity.ContainsFlag2(Update.Flags2.WaterAura))//WaterAura
-                                                        {
-                                                            teammate.Entity.RemoveFlag2(Update.Flags2.WaterAura);//WaterAura
-                                                            teammate.Entity.Statistics.WaterResistance -= 30;
-                                                        }
-                                                        if (teammate.Entity.ContainsFlag2(Update.Flags2.FireAura))//FireAura
-                                                        {
-                                                            teammate.Entity.RemoveFlag2(Update.Flags2.FireAura);//FireAura
-                                                            teammate.Entity.Statistics.FireResistance -= 30;
-                                                        }
-                                                        if (teammate.Entity.ContainsFlag2(Update.Flags2.EarthAura))//EarthAura
-                                                        {
-                                                            teammate.Entity.RemoveFlag2(Update.Flags2.EarthAura);//EarthAura
-                                                            teammate.Entity.Statistics.EarthResistance -= 30;
-                                                        }
-                                                        if (teammate.Entity.ContainsFlag2(Update.Flags2.FendAura))//TyrantAura
-                                                        {
-                                                            teammate.Entity.RemoveFlag2(Update.Flags2.FendAura);//TyrantAura
-                                                            teammate.Entity.Statistics.Immunity -= 200;
-                                                        }
+                            }
+                            client.Entity.RemoveFlag2(Update.Flags2.FendAura);
+                            client.Entity.RemoveFlag2(Update.Flags2.TyrantAura);
+                            client.Entity.RemoveFlag2(Update.Flags2.MetalAura);
+                            client.Entity.RemoveFlag2(Update.Flags2.WoodAura);
+                            client.Entity.RemoveFlag2(Update.Flags2.WaterAura);
+                            client.Entity.RemoveFlag2(Update.Flags2.FireAura);
+                            client.Entity.RemoveFlag2(Update.Flags2.EarthAura);
+                            client.Entity.RemoveFlag2(Update.Flags2.TyrantAura);
+                            teammate.Entity.RemoveFlag2(Update.Flags2.FendAura);
+                            teammate.Entity.RemoveFlag2(Update.Flags2.TyrantAura);
+                            teammate.Entity.RemoveFlag2(Update.Flags2.MetalAura);
+                            teammate.Entity.RemoveFlag2(Update.Flags2.WoodAura);
+                            teammate.Entity.RemoveFlag2(Update.Flags2.WaterAura);
+                            teammate.Entity.RemoveFlag2(Update.Flags2.FireAura);
+                            teammate.Entity.RemoveFlag2(Update.Flags2.EarthAura);
+                            teammate.Entity.RemoveFlag2(Update.Flags2.TyrantAura);
+                            if (teammate.Entity.ContainsFlag2(Update.Flags2.TyrantAura))//FendAura
+                            {
+                                teammate.Entity.RemoveFlag2(Update.Flags2.TyrantAura);//FendAura
+                                teammate.Entity.Statistics.CriticalStrike -= 200;
+                            }
+                            if (teammate.Entity.ContainsFlag2(Update.Flags2.MetalAura))//MetalAura
+                            {
+                                teammate.Entity.RemoveFlag2(Update.Flags2.MetalAura);//MetalAura
+                                teammate.Entity.Statistics.MetalResistance -= 30;
+                            }
+                            if (teammate.Entity.ContainsFlag2(Update.Flags2.WoodAura))//WoodAura
+                            {
+                                teammate.Entity.RemoveFlag2(Update.Flags2.WoodAura);//WoodAura
+                                teammate.Entity.Statistics.WoodResistance -= 30;
+                            }
+                            if (teammate.Entity.ContainsFlag2(Update.Flags2.WaterAura))//WaterAura
+                            {
+                                teammate.Entity.RemoveFlag2(Update.Flags2.WaterAura);//WaterAura
+                                teammate.Entity.Statistics.WaterResistance -= 30;
+                            }
+                            if (teammate.Entity.ContainsFlag2(Update.Flags2.FireAura))//FireAura
+                            {
+                                teammate.Entity.RemoveFlag2(Update.Flags2.FireAura);//FireAura
+                                teammate.Entity.Statistics.FireResistance -= 30;
+                            }
+                            if (teammate.Entity.ContainsFlag2(Update.Flags2.EarthAura))//EarthAura
+                            {
+                                teammate.Entity.RemoveFlag2(Update.Flags2.EarthAura);//EarthAura
+                                teammate.Entity.Statistics.EarthResistance -= 30;
+                            }
+                            if (teammate.Entity.ContainsFlag2(Update.Flags2.FendAura))//TyrantAura
+                            {
+                                teammate.Entity.RemoveFlag2(Update.Flags2.FendAura);//TyrantAura
+                                teammate.Entity.Statistics.Immunity -= 200;
+                            }
 
-                                                    }
-                                                    }
-                                                
+                        }
+                    }
+
                 }
             }
-#endregion
+            #endregion
             if (Game.ConquerStructures.Society.GuildWar.IsWar)
             {
                 if (Time32.Now > Game.ConquerStructures.Society.GuildWar.ScoreSendStamp.AddSeconds(3))
@@ -501,7 +476,7 @@ namespace Conquer_Online_Server
                         ServerBase.Kernel.SendWorldMessage(new Network.GamePackets.Message("You can now go and light the last flame which is near the Pole in GuildWar.", System.Drawing.Color.Orange, Network.GamePackets.Message.Center), ServerBase.Kernel.GamePool.Values);
                     }
                 }
-               
+
             }
 
             else
@@ -704,7 +679,7 @@ namespace Conquer_Online_Server
 
 
                     #endregion
-                    #region Weekly Monday and thurthday
+                    #region Weekly Monday and Thursday
                     try
                     {
 
@@ -763,7 +738,7 @@ namespace Conquer_Online_Server
                     //        ServerBase.Kernel.PK = true;
                     //        Game.ConquerStructures.Society.GuildWar.ClassPkWarMonk();
                     //    }
-                    
+
                     //}
                     //if (Now.DayOfWeek == DayOfWeek.Monday)// trojan
                     //{
@@ -791,7 +766,7 @@ namespace Conquer_Online_Server
                     //        Game.ConquerStructures.Society.GuildWar.ClassPkWarWarrior();
                     //    }
                     //}
-                    //if (Now.DayOfWeek == DayOfWeek.Wednesday) // aercher
+                    //if (Now.DayOfWeek == DayOfWeek.Wednesday) // archer
                     //{
                     //    if (Now.Hour == 19 && Now.Second == 40)
                     //    {
@@ -847,11 +822,11 @@ namespace Conquer_Online_Server
                     //}
                 }
                 catch { }
-            
+
             }
-           
+
         }
-        public static void loadEqup()
+        public static void loadEquip()
         {
             foreach (Client.GameState client in Kernel.GamePool.Values)
             {
@@ -935,7 +910,7 @@ namespace Conquer_Online_Server
 
                         #endregion
 
-                          #endregion
+                        #endregion
                         #region Training points
                         if (client.Entity.HeavenBlessing > 0 && !client.Entity.Dead)
                         {
@@ -1219,7 +1194,7 @@ namespace Conquer_Online_Server
             }
         }
 
-        
+
         static void BlessThread_Execute()
         {
             lock (Values)
@@ -1370,9 +1345,9 @@ namespace Conquer_Online_Server
                         }
                     }
                     #endregion
-                    #region KOSpell                    
+                    #region KOSpell
                     if (client.Entity.OnKOSpell())
-                    {                       
+                    {
                         if (client.Entity.OnCyclone())
                         {
                             int Seconds = Now.AllSeconds() - client.Entity.CycloneStamp.AddSeconds(client.Entity.CycloneTime).AllSeconds();
@@ -1631,8 +1606,8 @@ namespace Conquer_Online_Server
                             Database.ArenaTable.SaveArenaStatistics(client.ArenaStatistic);
                         }
                         new Database.MySqlCommand(Database.MySqlCommandType.UPDATE).Update("configuration").Set("ItemUID", Network.GamePackets.ConquerItem.ItemUID.Now).Where("Server", ServerBase.Constants.ServerName).Execute();
-                    }
-                    break;
+                        break;
+                    } 
                 case "@playercap":
                     {
                         try
@@ -1655,7 +1630,7 @@ namespace Conquer_Online_Server
                         var WC = ServerBase.Kernel.GamePool.Values.ToArray();
                         foreach (Client.GameState client in WC)
                             client.Disconnect();
-                        
+
                         if (GuildWar.IsWar)
                             GuildWar.End();
                         new Database.MySqlCommand(Database.MySqlCommandType.UPDATE).Update("configuration").Set("ItemUID", Network.GamePackets.ConquerItem.ItemUID.Now).Where("Server", ServerBase.Constants.ServerName).Execute();
@@ -1699,14 +1674,15 @@ namespace Conquer_Online_Server
             Client.GameState Client = obj.Connector as Client.GameState;
             Client.Send(Client.DHKeyExchance.CreateServerKeyPacket());
         }
+
         public static void GameServer_AnnounceReceive(byte[] arg1, Interfaces.ISocketWrapper arg2)
         {
             Client.GameState Client = arg2.Connector as Client.GameState;
             try
             {
-                    Client.Cryptography.Decrypt(arg1);
+                Client.Cryptography.Decrypt(arg1);
             }
-            catch {}
+            catch { }
             if (Client != null)
             {
                 if (Client.Exchange)
@@ -1794,17 +1770,17 @@ namespace Conquer_Online_Server
                 {
                     switch (c.ToString())
                     {
-                        case "-":  NoNumPadNumbers += "0"; break;
-                        case "#":  NoNumPadNumbers += "1"; break;
-                        case "(":  NoNumPadNumbers += "2"; break;
+                        case "-": NoNumPadNumbers += "0"; break;
+                        case "#": NoNumPadNumbers += "1"; break;
+                        case "(": NoNumPadNumbers += "2"; break;
                         case "\"": NoNumPadNumbers += "3"; break;
-                        case "%":  NoNumPadNumbers += "4"; break;
+                        case "%": NoNumPadNumbers += "4"; break;
                         case "\f": NoNumPadNumbers += "5"; break;
-                        case "'":  NoNumPadNumbers += "6"; break;
-                        case "$":  NoNumPadNumbers += "7"; break;
-                        case "&":  NoNumPadNumbers += "8"; break;
-                        case "!":  NoNumPadNumbers += "9"; break;
-                        default:   NoNumPadNumbers += c; break;
+                        case "'": NoNumPadNumbers += "6"; break;
+                        case "$": NoNumPadNumbers += "7"; break;
+                        case "&": NoNumPadNumbers += "8"; break;
+                        case "!": NoNumPadNumbers += "9"; break;
+                        default: NoNumPadNumbers += c; break;
                     }
                 }
                 password = NoNumPadNumbers;
@@ -1814,15 +1790,15 @@ namespace Conquer_Online_Server
                     if (player.Account.State == AccountTable.AccountState.Banned)
                         Fw.Type = Forward.ForwardType.Banned;
                     else
-                    Fw.Type = Forward.ForwardType.Ready;
+                        Fw.Type = Forward.ForwardType.Ready;
                 }
                 else
                 {
-                 //   Fw.Type = Forward.ForwardType.InvalidInfo;
+                   Fw.Type = Forward.ForwardType.InvalidInfo;
                 }
                 if (Fw.Type != Network.AuthPackets.Forward.ForwardType.InvalidInfo)
                 {
-                 
+
                     Fw.Identifier = Network.AuthPackets.Forward.Incrementer.Next;
                     ServerBase.Kernel.AwaitingPool.Add(Fw.Identifier, player.Account);
                 }
@@ -1832,14 +1808,14 @@ namespace Conquer_Online_Server
             }
             else
             {
-               
+
                 arg2.Socket.Disconnect(false);
             }
         }
         static void AuthServer_AnnounceDisconnection(Interfaces.ISocketWrapper obj)
         {
-     
+
         }
-          
+
     }
 }
