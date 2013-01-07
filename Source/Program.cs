@@ -288,7 +288,7 @@ namespace Conquer_Online_Server
         static void ServerStuff_Execute()
         {
             ServerBase.Kernel.Elite_PK_Tournament.SendThis();
-            Console.Title = "Source 5620 : " + Program.StartDate.ToString("dd MM yyyy hh:mm") + "- Players Online: " + ServerBase.Kernel.GamePool.Count + "||" + Program.PlayerCap + " Votes =" + Kernel.VotePool.Count;
+            Console.Title = "Source 5620 : " + Program.StartDate.ToString("MM/dd/yyyy hh:mm") + "- Players Online: " + ServerBase.Kernel.GamePool.Count + "||" + Program.PlayerCap + " Votes =" + Kernel.VotePool.Count;
             new Database.MySqlCommand(Database.MySqlCommandType.UPDATE).Update("configuration")
                 .Set("GuildID", Game.ConquerStructures.Society.Guild.GuildCounter.Now)
                 .Set("ItemUID", Network.GamePackets.ConquerItem.ItemUID.Now)
