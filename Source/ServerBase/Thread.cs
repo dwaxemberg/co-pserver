@@ -233,7 +233,7 @@ namespace Conquer_Online_Server.ServerBase
                 }
                 catch { }
                 Sleep(Milliseconds);
-                if (DateTime.Now.Hour == 21 && DateTime.Now.Minute == 00 && DateTime.Now.Second == 01);
+                //if (DateTime.Now.Hour == 21 && DateTime.Now.Minute == 00 && DateTime.Now.Second == 01);
             }
         }
         public void Sleep(int ms)

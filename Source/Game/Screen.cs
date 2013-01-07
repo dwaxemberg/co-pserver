@@ -23,8 +23,8 @@ namespace Conquer_Online_Server.Game
             Owner = client;
             Objects = new Interfaces.IMapObject[0];
             _objects = new SafeDictionary<uint, IMapObject>(1000);
-          //  CallBack = new TimerCallback(_timerCallBack);
-           // _timer = new Timer(CallBack, Owner, 5000, 100);
+            //CallBack = new TimerCallback(_timerCallBack);
+            //_timer = new Timer(CallBack, Owner, 5000, 100);
             MyTimer = new System.Timers.Timer(interval);
             MyTimer.AutoReset = true;
 

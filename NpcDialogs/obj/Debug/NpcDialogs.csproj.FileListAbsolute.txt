@@ -226,3 +226,8 @@ C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Conquer_Onli
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\NpcDialogs\obj\Debug\NpcDialogs.dll
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\NpcDialogs\obj\Debug\NpcDialogs.pdb
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\NpcDialogs\obj\Debug\NpcDialogs.csprojResolveAssemblyReference.cache
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Conquer_Online_Server\bin\Debug\NpcDialogs.dll
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Conquer_Online_Server\bin\Debug\NpcDialogs.pdb
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\NpcDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\NpcDialogs\obj\Debug\NpcDialogs.dll
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\NpcDialogs\obj\Debug\NpcDialogs.pdb

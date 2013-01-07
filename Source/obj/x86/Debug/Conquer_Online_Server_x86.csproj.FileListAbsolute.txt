@@ -545,3 +545,14 @@ C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\D
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\obj\x86\Debug\Conquer_Online_Server.pdb
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\Debug\NpcDialogs.dll
 C:\Users\Kody\Desktop\Co Pserver Work\Snake source 5632 for Epvpers\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\bin\Debug\Conquer_Online_Server.exe.config
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\bin\Debug\Conquer_Online_Server.exe
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\bin\Debug\Conquer_Online_Server.pdb
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\bin\Debug\NpcDialogs.dll
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\bin\Debug\NpcDialogs.pdb
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\obj\x86\Debug\Conquer_Online_Server.NotForPublicNotAtAll.NoCrash.resources
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\obj\x86\Debug\Conquer_Online_Server.exe
+C:\Users\Diego Waxemberg\Documents\GitHub\co-pserver\Source\obj\x86\Debug\Conquer_Online_Server.pdb
